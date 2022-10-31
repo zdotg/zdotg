@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zdotg
+- 👋 Hi, I’m Zach
 - 👀 I’m interested in learning something new.
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on furthering my education
