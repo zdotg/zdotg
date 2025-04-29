@@ -20,7 +20,7 @@ I believe in the power of lifelong learning. I'm actively seeking apprenticeship
 
 ### 📫 Let's Connect
 
-I'm always excited to connect with fellow developers, industry professionals, and potential employers. Feel free to reach out to me at [zach.ecab@gmail.com](mailto:your-email@example.com). I'd love to discuss how my diverse background and passion for technology can contribute to your team!
+I'm always excited to connect with fellow developers, industry professionals, and potential employers. Feel free to reach out to me at [zachgallman.dev](mailto:your-email@example.com). I'd love to discuss how my diverse background and passion for technology can contribute to your team!
 
 Looking forward to connecting with you! 🌟
 
